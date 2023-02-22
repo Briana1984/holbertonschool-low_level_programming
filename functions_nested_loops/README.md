@@ -1,0 +1,2 @@
+funtions an 
+-putchar
