@@ -1,0 +1,1 @@
+funtions c _ptchar
