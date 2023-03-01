@@ -7,7 +7,11 @@
  */
 int _strlen(char *s)
 {
-char i;
-i = strlen(s);
-return (i);
+int i;
+int longitud = 0;
+for (i = 0; s[i] != '\0'; i++)
+{
+longitud++;
+}
+return (longitud);
 }
