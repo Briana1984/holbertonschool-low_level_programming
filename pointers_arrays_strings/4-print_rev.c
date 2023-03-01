@@ -1,19 +1,18 @@
 #include "main.h"
 /**
- * print_rev - a function that prints a string, in reverse, followed new line.
- * @s: void vale add.
- * return 0
+ * print_rev - a function that prints a string, in reverse, followed by a new
+ *
+ * @s: This is char
+ *
  */
 void print_rev(char *s)
 {
-int i = 0, z;
-while (s[z++] != '\0')
+int i;
+for (i = 0; s[i] != '\0'; i++)
+;
+for (i = i - 1; s[i] != '\0'; i--)
 {
-i++;
-}
-for (z = i - 1; z >= 0; z--)
-{
-_putchar(s[z]);
+_putchar(s[i]);
 }
 _putchar('\n');
 }
