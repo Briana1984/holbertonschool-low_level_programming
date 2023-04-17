@@ -1,4 +1,4 @@
-![image](img/simple_shell_header.png)
+<p align="center"><img src ="https://productvision.pl/wp-content/uploads/2016/08/user-interface.png" /></p>
 <h1>Simple Shell</h1>
 Release date December 8, 2021
 
