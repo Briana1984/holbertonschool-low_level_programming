@@ -19,20 +19,20 @@ Release date December 8, 2021
      </p>
 
 ## Table of Contents
-* [Introduction](#Introduction)
+* [Introduction](##Introduction)
   * What is Shell
   * What is it for
-* [Project Information](#Project-Information)
+* [Project Information](##Project-Information)
     * Tasks
     * Enviroment
     * General requirements
     * Allowed functions
-* [Documentation](#Documentation)
+* [Documentation](##Documentation)
     * Instalation
     * Testing
     * Files
     * Flowchart
-* [Authors](#Authors)
+* [Authors](##Authors)
 
 ## Introduction
 
