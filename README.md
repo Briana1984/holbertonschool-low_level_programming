@@ -4,17 +4,17 @@ Release date December 8, 2021
 
 </p>
           </a>
-          <a href="https://github.com/Ouyei/simple_shell/commits/master" target="_blank">
-               <img alt="commit_activity" src="https://img.shields.io/github/commit-activity/y/Ouyei/simple_shell" />
+          <a href="" target="_blank">
+               <img alt="" />
           </a>
-          <a href="https://github.com/Ouyei/simple_shell/graphs/contributors" target="_blank">
-               <img alt="contributors" src="https://img.shields.io/github/contributors/Ouyei/simple_shell" />
+          <a href="" target="_blank">
+               <img alt="contributors" src="" />
           </a>
-          <a href="https://github.com/Ouyei/simple_shell/blob/master/hsh_shell.c"target="_blank">
-               <img alt="code-size" src="https://img.shields.io/tokei/lines/github/Ouyei/simple_shell" />
+          <a href=""target="_blank">
+               <img alt="code-size" src="" />
           </a>
-          <a href="https://github.com/Ouyei/simple_shell/blob/master/README.md" target="_blank">
-               <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen" />
+          <a href="" target="_blank">
+               <img alt="Documentation" src="" />
           </a>
      </p>
 
