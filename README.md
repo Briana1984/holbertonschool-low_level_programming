@@ -104,7 +104,7 @@ Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ### Installation
 
-- Clone this repository: `git clone "https://github.com/Ouyei/simple_shell"`
+- Clone this repository: `git clone`
 - Change directories into the repository: `cd simple_shell`
 - Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
 - Run the shell in interactive mode: `./hsh`
@@ -152,6 +152,6 @@ drwxr-xr-x 2 root root   37 Dec  6 08:34 img
 
 ## Flowchart
 
-![image](img/simple_shell.png)
+![Shell](https://user-images.githubusercontent.com/124627379/232639279-bc5aa1a9-65c2-4bcd-950d-e8d1cccc6d96.jpg)
 
 ## Authos
